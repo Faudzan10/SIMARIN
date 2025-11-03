@@ -167,43 +167,43 @@ Setelah berhasil login, pengguna masuk ke Menu Masyarakat, yang terdiri dari:
 
 -
 
-Buat Laporan
+- Buat Laporan
 
-Lihat Laporan
+- Lihat Laporan
 
-Cari Laporan
+- Cari Laporan
 
-Perbarui Laporan
+- Perbarui Laporan
 
-Hapus Laporan
+- Hapus Laporan
 
-Logout
+- Logout
 
 ✅ 1. Buat Laporan
 
 -
 
-Ketika memilih menu Buat Laporan, pengguna akan diarahkan ke halaman pemilihan jenis data yang ingin dibuat:
+- Ketika memilih menu Buat Laporan, pengguna akan diarahkan ke halaman pemilihan jenis data yang ingin dibuat:
 
 -
 
-Buat Akun
+- Buat Akun
 
-Buat Lokasi Laut
+- Buat Lokasi Laut
 
-Buat Laporan
+- Buat Laporan
 
-Buat Tindak Lanjut
+- Buat Tindak Lanjut
 
 
 
-Buat Jenis Laporan
+- Buat Jenis Laporan
 
 -
 
-Laporan Pencemaran Laut
+- Laporan Pencemaran Laut
 
-Laporan Penangkapan Ikan Ilegal
+- Laporan Penangkapan Ikan Ilegal
 
 ➤ Input Lokasi Laut
 
