@@ -103,9 +103,9 @@ Aplikasi ini dikembangkan menggunakan prinsip Object-Oriented Programming (OOP) 
 
 4. Hapus
 
-    - Menghapus laporan dari database
+  - Menghapus laporan dari database
 
-    - Menghapus akun pengguna
+  - Menghapus akun pengguna
 
 5. Cari
 
