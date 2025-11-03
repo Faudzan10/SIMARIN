@@ -118,3 +118,245 @@ Aplikasi ini dikembangkan menggunakan prinsip Object-Oriented Programming (OOP) 
 6. Logout
 
   - Keluar dari aplikasi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------
+
+**Cara Menggunakan Program**
+
+
+Cara Menggunakan Program (Menu Masyarakat)
+
+Saat aplikasi dijalankan, pengguna akan diarahkan ke halaman awal yang berisi:
+
+Login → digunakan jika pengguna sudah memiliki akun
+
+-
+
+Sign In / Registrasi → digunakan untuk membuat akun baru
+
+-
+
+Setelah berhasil login, pengguna masuk ke Menu Masyarakat, yang terdiri dari:
+
+-
+
+Buat Laporan
+
+Lihat Laporan
+
+Cari Laporan
+
+Perbarui Laporan
+
+Hapus Laporan
+
+Logout
+
+✅ 1. Buat Laporan
+
+-
+
+Ketika memilih menu Buat Laporan, pengguna akan diarahkan ke halaman pemilihan jenis data yang ingin dibuat:
+
+-
+
+Buat Akun
+
+Buat Lokasi Laut
+
+Buat Laporan
+
+Buat Tindak Lanjut
+
+
+
+Buat Jenis Laporan
+
+-
+
+Laporan Pencemaran Laut
+
+Laporan Penangkapan Ikan Ilegal
+
+➤ Input Lokasi Laut
+
+-
+
+Pengguna diminta mengisi data lokasi:
+
+Nama lokasi
+
+Koordinat
+
+Wilayah
+
+Kondisi terakhir
+
+➤ Input Tindak Lanjut
+
+-
+
+Pengguna mengisi data tindak lanjut awal (jika ada):
+
+ID Laporan
+
+Tanggal tindak lanjut
+
+Hasil tindak lanjut
+
+Nominal denda (jika ada)
+
+Status tindakan
+
+➤ Laporan Pencemaran Laut
+
+-
+
+Form berisi:
+
+Sumber limbah
+
+Jenis limbah
+
+Tingkat pencemaran (Ringan / Sedang / Berat)
+
+➤ Laporan Penangkapan Ikan Ilegal
+
+-
+
+Form berisi:
+
+ID laporan
+
+Jenis kapal
+
+Alat tangkap
+
+Zona penangkapan
+
+Pelanggaran
+
+✅ 2. Lihat Laporan
+
+-
+
+Ketika pengguna memilih Lihat Laporan, sistem akan menampilkan pilihan jenis laporan:
+
+Laporan Pencemaran Laut
+
+Laporan Penangkapan Ikan Ilegal
+
+Setelah memilih, sistem menampilkan tabel laporan sesuai kategori disertai data tindak lanjut jika tersedia.
+
+✅ 3. Cari Laporan
+
+-
+
+Pengguna dapat mencari laporan berdasarkan jenisnya:
+
+Cari laporan pencemaran laut
+
+Cari laporan penangkapan ikan ilegal
+
+Pengguna diminta memasukkan ID Laporan, lalu sistem menampilkan data laporan dalam bentuk tabel.
+
+✅ 4. Perbarui Laporan
+
+Pengguna dapat memperbarui data sesuai jenis laporan:
+
+➤ Perbarui Laporan Penangkapan Ikan
+
+-
+
+Input ulang:
+
+ID laporan
+
+Jenis kapal
+
+Alat tangkap
+
+Zona penangkapan
+
+Pelanggaran
+
+
+➤ Perbarui Laporan Pencemaran Laut
+
+-
+
+Input ulang:
+
+ID laporan
+
+Jenis limbah
+
+Sumber limbah
+
+Tingkat pencemaran
+
+
+➤ Perbarui Tindak Lanjut
+
+-
+
+Masukkan ID laporan
+
+Data lama muncul dalam tabel
+
+Perbarui data sesuai form
+
+
+➤ Perbarui Lokasi Laut
+
+-
+
+Masukkan ID lokasi
+
+Data lama tampil
+
+Pengguna memperbarui sesuai kebutuhan
+
+
+✅ 5. Hapus Laporan
+
+Untuk menghapus laporan:
+
+Pilih jenis laporan
+-
+
+Masukkan ID laporan
+-
+
+Sistem menghapus data laporan tersebut
+
+✅ 6. Logout
+
+Keluar dari aplikasi dan kembali ke halaman login.
